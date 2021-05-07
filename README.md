@@ -28,6 +28,7 @@
 
 4.	**Macro to Micro analysis** : A micro perspective focuses on the individual level, while a macro perspective focuses more broadly 
 
+
 Here I have used a simple dataset **(IRIS)** and tried to show all the analysis and types of plotting using Python.
 
 # Types of Plotting
@@ -35,7 +36,7 @@ Here I have used a simple dataset **(IRIS)** and tried to show all the analysis 
 On the basis of the number of variables you want to see relationship in between, plotting can be classified as:
 
   - **Univariate Plotting**
-  - **Bivariate Plotting **
+  - **Bivariate Plotting**
   - **Multivariate Plotting**
   
   To check out my notebook please, click [here](http://https://github.com/kasturi-sahu/Exploratory-Data-Analysis/blob/main/EDA%20(Exploratory%20Data%20Analysis). 

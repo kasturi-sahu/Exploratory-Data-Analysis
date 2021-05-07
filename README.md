@@ -39,4 +39,4 @@ On the basis of the number of variables you want to see relationship in between,
   - **Bivariate Plotting**
   - **Multivariate Plotting**
   
-  To check out my notebook please, click [here](http://https://github.com/kasturi-sahu/Exploratory-Data-Analysis/blob/main/EDA%20(Exploratory%20Data%20Analysis). 
+  To check out my notebook please, click [here]

@@ -31,6 +31,7 @@
 
 Here I have used a simple dataset **(IRIS)** and tried to show all the analysis and types of plotting using Python.
 
+
 # Types of Plotting
 
 On the basis of the number of variables you want to see relationship in between, plotting can be classified as:
@@ -39,4 +40,4 @@ On the basis of the number of variables you want to see relationship in between,
   - **Bivariate Plotting**
   - **Multivariate Plotting**
   
-  To check out my notebook please, click [here]
+  To check out my notebook please, click [here](http://https://github.com/kasturi-sahu/Exploratory-Data-Analysis/blob/main/EDA%20(Exploratory%20Data%20Analysis).ipynb "here")
